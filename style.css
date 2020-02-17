@@ -1,0 +1,167 @@
+header {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    text-align: center;
+    display:block;
+    }
+
+.central-logo-text {
+    width: 180px;
+    
+}
+
+.slogan {
+    font-family: 'Linux Libertine',Georgia,Times,serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+
+.container-left {
+    width: 42%;
+    float: left;
+}
+
+.container-central {
+    width: 16%;
+    margin-left: auto;
+    margin-top: auto;
+    text-align: center;
+    display:inline-block;
+}
+
+div .logo-circle {
+    width: 200px;
+    padding-top: 70px;
+
+}
+
+.container-right {
+    width: 42%;
+    float: right;
+}
+
+containers {
+    text-align:center;
+    width: 100%;
+    height: auto;
+}
+
+.languages {
+    width: 150px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+    color: #36c;
+}
+
+.spanish {
+    margin-left: 410px;
+}
+
+.info {
+    font-size: 12px;
+    font-weight: lighter;
+    margin-top: 5px;
+    color: darkgray;
+}
+
+.japanese {
+    margin-left: 380px;
+}
+
+.russian {
+    margin-left: 375px;
+}
+
+.italian {
+    margin-left: 390px;
+}
+
+.portuguese {
+    margin-left: 410px;
+}
+
+.english {
+    margin-left: 0px;
+}
+
+.deutsch {
+    margin-left: 35px;
+}
+
+.french {
+    margin-left: 50px;
+}
+
+.chinese {
+    margin-left: 35px;
+}
+
+.polski {
+    margin-left: 0px;
+}
+
+.search-input {
+    /*clear: both;*/
+    width: 100%;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-input-container {
+    width: 400px;
+    height: 40px;
+    margin-left: 10px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.search-input-container input {
+    width: 350px;
+    height: 36px;
+    margin-left: 5px;
+    outline: none;
+    border: none;
+}
+
+
+.search-icon {
+    float: right;
+    height: 36px;
+}
+
+
+section button {
+    width: 250px;
+    height: 30px;
+    overflow: visible;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    margin-top: 30px;
+    color: blue;
+}
+
+section .select-lang {
+    width: 100%;
+    text-align: center;
+    display: flex;
+}
+
+
+span .lang-selector {
+    float: left;
+    text-align: center;
+    
+}
